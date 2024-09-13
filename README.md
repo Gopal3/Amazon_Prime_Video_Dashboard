@@ -1,4 +1,4 @@
-Instituted an interactive dashboard on Amazon Prime data using Tableau, enabling users to explore over 100 movie and TV show records by genre, ratings, and release year, leading to a \textbf{30\%} increase in data-driven decision-making.
+Designed an interactive dashboard on Amazon Prime data using Tableau, enabling users to explore over 100 movie and TV show records by genre, ratings, and release year, leading to a 30% increase in data-driven decision-making.
 
 ![Screenshot (482)](https://github.com/user-attachments/assets/b0230c6b-fa5c-450c-911f-50c1384b0544)
 
